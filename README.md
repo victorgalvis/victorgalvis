@@ -16,7 +16,7 @@ Victor Galvis</a></h1>
 
 - 👨‍💻 All my projects are available on my personal site galvisdev.com
 
-- 📄 Know about my experiences https://www.linkedin.com/in/santiago-corrales-londo%C3%B1o-268561189/
+- 📄 Know about my experiences https://www.linkedin.com/in/victor-rodrigo-galvis-zuleta/
 
 - 📫 How to reach me **victorgalvis.85@gmail.com**
 
