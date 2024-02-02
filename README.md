@@ -16,7 +16,7 @@ Victor Galvis</a></h1>
 
 - 👨‍💻 All my projects are available on my personal site galvisdev.com
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/santiago-corrales-londo%C3%B1o-268561189/]
+- 📄 Know about my experiences https://www.linkedin.com/in/santiago-corrales-londo%C3%B1o-268561189/
 
 - 📫 How to reach me **victorgalvis.85@gmail.com**
 
@@ -32,10 +32,6 @@ Victor Galvis</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 
-      </div>
-
-</p>
-
-
+</div>
 ---
 Last Edited on: 01/02/2024
